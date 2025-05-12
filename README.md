@@ -3,7 +3,7 @@
 ## 📘 About  
 This was my **first ever programming project**, built in **C** during my **first semester (Fall 2023) at FAST-NUCES**. It helped me practice and apply core programming fundamentals — from arrays, conditionals, and loops to functions, structures, pointers, and modular code. I practiced everything I needed to learn at the time through this project, along with a few others that reinforced my fundamentals.
 
-##🌟Overview  
+## 🌟Overview  
 **Recipe Book** is a command-line C application that lets users find recipes based on available ingredients. Users can choose from 8 ingredients, and the program displays all recipes that can be made using exactly those.
 
 ### ✨Features  
